@@ -2,7 +2,7 @@
 """
 build-tesina.py
 Estrae metadati da config.yml, legge il riassunto da un file dedicato,
-e concatena i file markdown delle sezioni in un unico README.md.
+e concatena i file markdown delle sezioni in un unico documento.md.
 """
 import yaml
 from pathlib import Path
@@ -80,10 +80,10 @@ def main():
 
     
     # ==========================================
-    # 3. CREA README.MD CON FRONTMATTER E CONTENUTI
+    # 3. CREA documento.md CON FRONTMATTER E CONTENUTI
     # ==========================================
-    print("[*] Creating README.md with full frontmatter...")
-    with open("README.md", "w", encoding='utf-8') as out:
+    print("[*] Creating documento.md with full frontmatter...")
+    with open("documento.md", "w", encoding='utf-8') as out:
         # --- Scrivi il frontmatter YAML completo ---
         out.write("---\n")
         out.write("abstract: |\n")
@@ -114,7 +114,7 @@ def main():
                 out.write(f"::: {{#refs-{section_id}}}\n")
                 out.write(f":::\n\n")
 
-    print(f"[SUCCESS] Merged {len(files)} section files and added bibliography sections to README.md")
+    print(f"[SUCCESS] Merged {len(files)} section files and added bibliography sections to documento.md")
     return 0
 
 if __name__ == "__main__":
