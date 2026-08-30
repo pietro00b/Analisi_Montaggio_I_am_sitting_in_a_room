@@ -1,51 +1,33 @@
 # Fonti
 
-Elenco delle fonti usate per la tesina, con la loro collocazione fisica sul disco.
-**I PDF non sono committati** in questo repository: sono materiale protetto da copyright e
-l'archivio personale è la fonte unica (una sola copia per file). Qui restano solo i puntatori.
+Le fonti consultate per la tesina. I PDF non sono inclusi nel repository: sono materiale protetto da
+copyright e stanno nel mio archivio personale, dove i file seguono la convenzione
+`cognome_anno_titolo`, quindi il riferimento qui sotto basta a ritrovarli.
 
-I percorsi sono relativi a `~/Documents/`.
+## Bibliografia
 
-## Fonti consultate in copia digitale
-
-| Riferimento | File | Percorso |
+| Riferimento | Chiave | Nota |
 |---|---|---|
-| Davis 2003 | `davis_2003_sounding-space-in-the-work-of-alvin-lucier.pdf` | `Conservatorio_Aquila/Lucier/` |
-| Di Scipio 2005 | `di-scipio_2005_per-una-crisi-dell-elettronica-dal-vivo-i-am-sitting-in-a-room-di-alvin-lucier.pdf` | `Conservatorio_Aquila/Lucier/` |
-| Kahn 2009 | `kahn_2009_alvin-lucier-i-am-sitting-in-a-room-immersed-and-propagated.pdf` | `Conservatorio_Aquila/Lucier/` |
-| Lucier 1970 (partitura in prosa) | `lucier_1970_i-am-sitting-in-a-room_partitura-in-prosa.pdf` | `Conservatorio_Aquila/Lucier/` |
+| Lucier, A. e Simon, D. (1980), *Chambers: Scores and Interviews*, Middletown (CT): Wesleyan University Press | `@lucier1980` | |
+| Lucier, A. (1995), *Reflexionen: Interviews, Notationen, Texte*, Köln: Edition MusikTexte | `@lucier1995` | Fonte principale: contiene la partitura verbale, le interviste e i dati biografici |
+| Galante, F. e Sani, N. (2000), *Musica espansa*, Lucca/Milano: LIM/Ricordi | `@galante-sani2000` | |
+| Davis, R. (2003), *"…and what they do as they're going…": sounding space in the work of Alvin Lucier*, Cambridge: Cambridge University Press | `@davis2003` | |
+| Di Scipio, A. (2005), «Per una crisi dell'elettronica dal vivo. "I am sitting in a room" di Alvin Lucier», *Rivista di Analisi e Teoria Musicale* XII.1/2, pp. 111–134 | `@discipio2005` | Riferimento centrale per l'analisi del processo e del materiale |
+| Kahn, D. (2009), «Alvin Lucier: "I Am Sitting in a Room", Immersed and Propagated», *Leonardo Music Journal* 19, pp. 65–66 | `@kahn2009` | |
+| Lucier, A. (2012), *Music 109: Notes on Experimental Music*, Middletown (CT): Wesleyan University Press | `@lucier2012` | |
 
-> Da fare: questi quattro file appartengono all'archivio, non al progetto. Andrebbero spostati in
-> `LIBRI/articoli/musica_elettronica/` (la partitura in `LIBRI/spartiti/`) e questa tabella
-> aggiornata di conseguenza. Finché restano dove sono, il puntatore qui sopra è corretto.
+## Partitura
 
-## Fonti citate ma non presenti in archivio digitale
-
-| Riferimento | Nota |
-|---|---|
-| Lucier & Simon 1980, *Chambers: Scores and Interviews* | consultato in biblioteca |
-| Lucier 1995, *Reflexionen: Interviews, Notationen, Texte* | fonte principale per partitura, interviste e dati biografici |
-| Galante & Sani 2000, *Musica espansa* | consultato in biblioteca |
-| Lucier 2012, *Music 109: Notes on Experimental Music* | consultato in biblioteca |
+Lucier, A., *I am sitting in a room* (1969–70), partitura verbale per voce e nastro elettromagnetico.
+Pubblicata in Lucier 1995 e identica all'originale; citata nel testo come `@lucier1995`.
 
 ## Sitografia
 
-| Riferimento | URL | Accesso |
-|---|---|---|
-| Lucier 1994, *Thoughts on installations, SYMPOSIUM TEXTE* | <http://www.kunstradio.at/ZEITGLEICH/> | 05/07/2025 |
-
-## Corrispondenza con le chiavi BibTeX
-
-Le chiavi usate nel testo (`docs/sezioni/*.md`) e definite in `docs/bibliografia.bib` e
-`docs/sitografia.bib`:
-
-| Chiave | Riferimento |
+| Riferimento | Chiave |
 |---|---|
-| `@lucier1980` | Lucier & Simon 1980 |
-| `@lucier1995` | Lucier 1995 |
-| `@galante-sani2000` | Galante & Sani 2000 |
-| `@davis2003` | Davis 2003 |
-| `@discipio2005` | Di Scipio 2005 |
-| `@kahn2009` | Kahn 2009 |
-| `@lucier2012` | Lucier 2012 |
-| `@lucier1994` | Lucier 1994 (sitografia) |
+| Lucier, A. (1994), *Thoughts on installations, SYMPOSIUM TEXTE*, <http://www.kunstradio.at/ZEITGLEICH/> (ultimo accesso 05/07/2025) | `@lucier1994` |
+
+---
+
+Le chiavi corrispondono alle voci di `docs/bibliografia.bib` e `docs/sitografia.bib`, e si usano nel
+testo come `[@chiave]` oppure `[@chiave, p. 17]`.

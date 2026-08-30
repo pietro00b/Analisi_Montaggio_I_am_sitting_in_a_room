@@ -66,8 +66,9 @@ completi è in [`fonti.md`](fonti.md).
 ## Fonti
 
 **I PDF delle fonti non stanno in questo repository.** Sono materiale protetto da copyright e
-duplicherebbero l'archivio personale, che è la fonte unica. [`fonti.md`](fonti.md) elenca ogni fonte
-con il percorso del file sul disco.
+duplicherebbero l'archivio personale, che è la fonte unica. [`fonti.md`](fonti.md) elenca i
+riferimenti bibliografici completi: nell'archivio i file sono nominati `cognome_anno_titolo`, quindi
+il riferimento basta a ritrovarli.
 
 ## La realizzazione acusmatica
 
