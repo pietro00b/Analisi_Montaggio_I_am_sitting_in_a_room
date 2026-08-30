@@ -1,0 +1,29 @@
+## ============================================
+## METADATI DELLA TESINA
+## ============================================
+
+title: "I am sitting in a room di Alvin Lucier"
+subtitle: "Il processo come materiale compositivo"
+author: "Pietro Barale"
+
+conservatorio: "Conservatorio A. Casella"
+citta: "L'Aquila"
+corso: "Corsi Accademici di Musica Elettronica DCSL34"
+esame: "Analisi, Esecuzione e Interpretazione della Musica Elettroacustica"
+date: "05/07/2025"
+
+## ============================================
+## IMPOSTAZIONI DOCUMENTO
+## ============================================
+
+documentclass: article
+fontsize: 12pt
+toc: true
+toc-depth: 2
+
+## ============================================
+## BIBLIOGRAFIA
+## ============================================
+
+csl: styles/consAq-author-date.csl
+nocite: "@*"
