@@ -1,8 +1,7 @@
 # Fonti
 
-Le fonti consultate per la tesina. I PDF non sono inclusi nel repository: sono materiale protetto da
-copyright e stanno nel mio archivio personale, dove i file seguono la convenzione
-`cognome_anno_titolo`, quindi il riferimento qui sotto basta a ritrovarli.
+Le fonti consultate per la tesina. I file seguono la convenzione
+`cognome_anno_titolo`. 
 
 ## Bibliografia
 
