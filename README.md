@@ -10,7 +10,7 @@ Analisi, Esecuzione e Interpretazione della Musica Elettroacustica
 
 Ultima versione compilata: <https://pietro00b.github.io/Analisi_Montaggio_I_am_sitting_in_a_room/latest.pdf>
 
-Per ascoltare le versioni: audio/Audio.md
+I file audio sono disponibili nella cartella [audio](audio/).
 
 ## Come funziona il repository
 
