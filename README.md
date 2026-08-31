@@ -10,6 +10,10 @@ Analisi, Esecuzione e Interpretazione della Musica Elettroacustica
 
 Ultima versione compilata: <https://pietro00b.github.io/Analisi_Montaggio_I_am_sitting_in_a_room/latest.pdf>
 
+Versione consegnata all'esame del 05/07/2025:
+[`output/Lucier_Pietro_Barale.pdf`](output/Lucier_Pietro_Barale.pdf)
+
+
 ## Archivio Audio
 
 I file audio sono disponibili nella cartella [audio](audio/Audio.md).
